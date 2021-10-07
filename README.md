@@ -76,7 +76,7 @@
     <a href="https://www.instagram.com/sabino_fernandz">
       <img align="center" src="https://i.imgur.com/7ibmujg.png" height="50" width="50" />
     </a>
-    <a href="https://twitter.com/benjamin_gnr">
+    <a href="https://twitter.com/www_sabino_com">
       <img align="center" src="https://i.imgur.com/AsubqqS.png" height="50" width="50" />
     </a>
 
