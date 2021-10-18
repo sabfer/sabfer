@@ -73,7 +73,7 @@
     <a href="https://www.linkedin.com/in/sabinofernandez/">
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
-    <a href="https://www.instagram.com/sabino_fernandz">
+    <a href="https://www.instagram.com/sabino.fernandz">
       <img align="center" src="https://i.imgur.com/7ibmujg.png" height="50" width="50" />
     </a>
     <a href="https://twitter.com/www_sabino_com">
