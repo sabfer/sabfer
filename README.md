@@ -1,13 +1,12 @@
-![Port](https://i.imgur.com/zlsQjSP.png)
-
-<h2> My name is Sabino! 👋🏻 </h2>
-<h3> I'm a web developer 💻 </h3>
+![Port](https://i.imgur.com/mIVZ4ni.png)
 
 <hr>
 <div>
   <p>
     I was born and raised in Venezuela, but currently I'm living in Lima, Peru. I've concluded an intensive JS Bootcamp called Henry based on Argentina. I'm capable of creating amazing React apps using modern technologies.   
   </p>
+
+<b>Skills</b>: HTML / CSS / JS / React / Redux / Node.js / Express / Sequelize / PostgreSQL / MongoDB / Mongoose / Git / Scrum
 
 <hr>
 <br />
