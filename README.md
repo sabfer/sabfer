@@ -55,8 +55,5 @@
     </a>
     <a href="https://www.instagram.com/sabino.fernandz">
       <img align="center" src="https://i.imgur.com/8yhMi8n.png" height="75" width="75"/>
-    </a>
-    <a href="https://twitter.com/www_sabino_com">
-      <img align="center" src="https://i.imgur.com/YSDeOj8.png" height="75" width="75"/>
-    </a>
+  </a>
 <div/>
